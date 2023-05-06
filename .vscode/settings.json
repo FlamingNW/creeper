@@ -1,0 +1,24 @@
+{
+  "workbench.editor.sharedViewState": false,
+  "workbench.editor.labelFormat": "default",
+  "workbench.editor.enablePreviewFromCodeNavigation": false,
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.autoLockGroups": {
+    "default": true,
+    "workbench.editorinputs.searchEditorInput": true,
+    "jupyter-notebook": true,
+    "mainThreadWebview-markdown.preview": true
+  },
+  "discord.largeImage": "Editing a {lang} file",
+  "editor.maxTokenizationLineLength": 50000,
+  "editor.experimental.asyncTokenization": true,
+  "editor.experimental.asyncTokenizationVerification": false,
+  "editor.experimental.asyncTokenizationLogging": false,
+  "[csharp]": {
+    "editor.maxTokenizationLineLength": 3500
+  },
+  "[javascript]": {
+    "diffEditor.codeLens": false,
+    "editor.autoClosingBrackets": "languageDefined"
+  }
+}
